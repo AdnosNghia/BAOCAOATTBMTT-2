@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\wwwroot\\session-status.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:wwwroot\\session-status.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\middleware\\sessiontrackingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:middleware\\sessiontrackingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\wwwroot\\js\\protect-source.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:wwwroot\\js\\protect-source.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|c:\\app hoc\\b\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(update)\\e-commercetechnologywebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A52406D3-A4A7-458F-9183-C7076708DED0}|E-commerceTechnologyWebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "session-status.html",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\session-status.html",
+              "RelativeDocumentMoniker": "wwwroot\\session-status.html",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\session-status.html",
+              "RelativeToolTip": "wwwroot\\session-status.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-09T13:23:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:19:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionTrackingMiddleware.cs",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Middleware\\SessionTrackingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\SessionTrackingMiddleware.cs",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Middleware\\SessionTrackingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\SessionTrackingMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:07:15.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T12:36:18.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAANMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:36:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T12:35:04.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "protect-source.js",
+              "DocumentMoniker": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\protect-source.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\protect-source.js",
+              "ToolTip": "C:\\APP Hoc\\B\u00E1o c\u00E1o an to\u00E0n th\u00F4ng tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\protect-source.js",
+              "RelativeToolTip": "wwwroot\\js\\protect-source.js",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-09T12:34:49.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
