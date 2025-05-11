@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vEaCvULPlw=",
+  "dgSpecHash": "LcRyuTuHTCM=",
   "success": true,
-  "projectFilePath": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj",
+  "projectFilePath": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

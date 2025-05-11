@@ -27,15 +27,15 @@
     <script src="~/js/protect-source.js" asp-append-version="true"></script>
     <!--phát hiện DevTools-->
     <script>
-        var devtools = /./;
-        devtools.toString = function () {
-            this.opened = true;
-        }
-        console.log('%c', devtools);
-        Object.defineProperty(window, 'devtools', {
-            get: function () {
-                return { isOpen: devtools.opened };
-            }
+        document.addEventListener("DOMContentLoaded", function () {
+            setInterval(() => {
+                if (window.outerHeight - window.innerHeight > 160 ||
+                    window.outerWidth - window.innerWidth > 160) {
+                    document.body.style.display = "none";
+                    document.documentElement.style.display = "none";
+
+                }
+            }, 300);
         });
     </script>
 

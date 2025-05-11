@@ -2463,6 +2463,88 @@
       ]
     },
     {
+      "Route": "js/protect-source.h5osk29w4t.js",
+      "AssetFile": "js/protect-source.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdVxn7++3KN8/mPv57lTwYoFMc/pvFxVaqpaeWReQPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 14:43:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5osk29w4t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RdVxn7++3KN8/mPv57lTwYoFMc/pvFxVaqpaeWReQPQ="
+        },
+        {
+          "Name": "label",
+          "Value": "js/protect-source.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/protect-source.js",
+      "AssetFile": "js/protect-source.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdVxn7++3KN8/mPv57lTwYoFMc/pvFxVaqpaeWReQPQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 14:43:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RdVxn7++3KN8/mPv57lTwYoFMc/pvFxVaqpaeWReQPQ="
+        }
+      ]
+    },
+    {
       "Route": "js/xss.emcr3okdb6.js",
       "AssetFile": "js/xss.js",
       "Selectors": [],
@@ -11643,6 +11725,170 @@
         {
           "Name": "label",
           "Value": "media/products/xiaomi-mi-11-ultra.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "rate-limit-test.html",
+      "AssetFile": "rate-limit-test.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9Ymnc/3qJ/JQ1ulU7DIbhaXuA0zh2dodAgdM1OmFmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 14:41:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9Ymnc/3qJ/JQ1ulU7DIbhaXuA0zh2dodAgdM1OmFmI="
+        }
+      ]
+    },
+    {
+      "Route": "rate-limit-test.l2vsd4yjir.html",
+      "AssetFile": "rate-limit-test.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9Ymnc/3qJ/JQ1ulU7DIbhaXuA0zh2dodAgdM1OmFmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 14:41:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2vsd4yjir"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9Ymnc/3qJ/JQ1ulU7DIbhaXuA0zh2dodAgdM1OmFmI="
+        },
+        {
+          "Name": "label",
+          "Value": "rate-limit-test.html"
+        }
+      ]
+    },
+    {
+      "Route": "session-status.6kye7gpi5b.html",
+      "AssetFile": "session-status.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dl1yk78WhclwKFRyKC0VEo0mqVcnH0dQ+ozfaolQabc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:24:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6kye7gpi5b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dl1yk78WhclwKFRyKC0VEo0mqVcnH0dQ+ozfaolQabc="
+        },
+        {
+          "Name": "label",
+          "Value": "session-status.html"
+        }
+      ]
+    },
+    {
+      "Route": "session-status.html",
+      "AssetFile": "session-status.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "945"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dl1yk78WhclwKFRyKC0VEo0mqVcnH0dQ+ozfaolQabc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 09 May 2025 13:24:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dl1yk78WhclwKFRyKC0VEo0mqVcnH0dQ+ozfaolQabc="
         }
       ]
     }

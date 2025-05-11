@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pq1lVfRjGbrp9iCS6cLeorFhaN3euSNRgWFG33ZqgdU=",
+  "Hash": "EOP/FAcVpO0DPA0L9ZKI4Gp+pxxpXT35ykRVWwEsGFc=",
   "Source": "E-commerceTechnologyWebsite",
   "BasePath": "_content/E-commerceTechnologyWebsite",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "E-commerceTechnologyWebsite\\wwwroot",
       "Source": "E-commerceTechnologyWebsite",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerceTechnologyWebsite.styles.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerceTechnologyWebsite.styles.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "E-commerceTechnologyWebsite.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerceTechnologyWebsite.styles.css"
+      "OriginalItemSpec": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerceTechnologyWebsite.styles.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerceTechnologyWebsite.bundle.scp.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerceTechnologyWebsite.bundle.scp.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "E-commerceTechnologyWebsite.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerceTechnologyWebsite.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerceTechnologyWebsite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\backend\\js\\site.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\backend\\js\\site.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "backend/js/site.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\backend\\js\\site.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\animate.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\animate.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\main.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\main.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\prettyPhoto.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\prettyPhoto.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/prettyPhoto.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prettyPhoto.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\price-range.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\price-range.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/price-range.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\price-range.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\css\\responsive.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\css\\responsive.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\favicon.ico",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\All-logo.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\All-logo.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/All-logo.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\All-logo.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\apple-logo.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\apple-logo.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/apple-logo.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\apple-logo.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\corsair-logo.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\corsair-logo.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/corsair-logo.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\corsair-logo.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\oppo-logo.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\oppo-logo.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/oppo-logo.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\oppo-logo.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\Poster1.png",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\Poster1.png",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/Poster1.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Poster1.png"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\realme-logo.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\realme-logo.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/realme-logo.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\realme-logo.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\samsungmobile_logo.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\samsungmobile_logo.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/samsungmobile_logo.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\samsungmobile_logo.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\santa-left.png",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\santa-left.png",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/santa-left.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\santa-left.png"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\Shop_Tech.png",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\Shop_Tech.png",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/Shop_Tech.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Shop_Tech.png"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\Shop_Techh.png",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\Shop_Techh.png",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/Shop_Techh.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Shop_Techh.png"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\images\\Shop_Techhh.png",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\images\\Shop_Techhh.png",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "images/Shop_Techhh.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Shop_Techhh.png"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\contact.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\contact.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\gmaps.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\gmaps.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/gmaps.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gmaps.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\html5shiv.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\html5shiv.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/html5shiv.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\js\\html5shiv.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\jquery.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\jquery.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\jquery.prettyPhoto.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/jquery.prettyPhoto.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\jquery.scrollUp.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/jquery.scrollUp.min.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\main.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\main.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\price-range.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\price-range.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/price-range.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\price-range.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\protect-source.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\protect-source.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/protect-source.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\protect-source.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\js\\xss.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\js\\xss.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "js/xss.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\xss.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\102a77ac-46aa-46ba-8678-f710f2453329_samsung-galaxy-z-flip6-blue-1-1-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\102a77ac-46aa-46ba-8678-f710f2453329_samsung-galaxy-z-flip6-blue-1-1-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/102a77ac-46aa-46ba-8678-f710f2453329_samsung-galaxy-z-flip6-blue-1-1-750x500.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\102a77ac-46aa-46ba-8678-f710f2453329_samsung-galaxy-z-flip6-blue-1-1-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\12d65744-d836-4fde-b7d7-b92da74591b7_dell-inspiron-15-3520-i5-25p231-250424-020344-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\12d65744-d836-4fde-b7d7-b92da74591b7_dell-inspiron-15-3520-i5-25p231-250424-020344-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/12d65744-d836-4fde-b7d7-b92da74591b7_dell-inspiron-15-3520-i5-25p231-250424-020344-600x600.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\12d65744-d836-4fde-b7d7-b92da74591b7_dell-inspiron-15-3520-i5-25p231-250424-020344-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\162d259d-ca2e-4ca4-b85c-b34e0a729e0a_tai-nghe-bluetooth-airpods-pro-2nd-gen-usb-c-charge-apple-thumb-1-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\162d259d-ca2e-4ca4-b85c-b34e0a729e0a_tai-nghe-bluetooth-airpods-pro-2nd-gen-usb-c-charge-apple-thumb-1-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/162d259d-ca2e-4ca4-b85c-b34e0a729e0a_tai-nghe-bluetooth-airpods-pro-2nd-gen-usb-c-charge-apple-thumb-1-600x600.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\162d259d-ca2e-4ca4-b85c-b34e0a729e0a_tai-nghe-bluetooth-airpods-pro-2nd-gen-usb-c-charge-apple-thumb-1-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\179de6d5-b5d4-4ec9-8b96-4a22aaf8810e_asus-vivobook-s-14-oled-s5406ma-ultra-5-pp136w-thumb-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\179de6d5-b5d4-4ec9-8b96-4a22aaf8810e_asus-vivobook-s-14-oled-s5406ma-ultra-5-pp136w-thumb-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/179de6d5-b5d4-4ec9-8b96-4a22aaf8810e_asus-vivobook-s-14-oled-s5406ma-ultra-5-pp136w-thumb-600x600.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\179de6d5-b5d4-4ec9-8b96-4a22aaf8810e_asus-vivobook-s-14-oled-s5406ma-ultra-5-pp136w-thumb-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\17aad611-c7cb-424e-8389-a6121860e303_oppo-find-n3-vang-dong-thumb-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\17aad611-c7cb-424e-8389-a6121860e303_oppo-find-n3-vang-dong-thumb-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/17aad611-c7cb-424e-8389-a6121860e303_oppo-find-n3-vang-dong-thumb-600x600.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\17aad611-c7cb-424e-8389-a6121860e303_oppo-find-n3-vang-dong-thumb-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\1d4e0f76-7ab7-4db0-a6da-adc04fab6982_ip-8.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\1d4e0f76-7ab7-4db0-a6da-adc04fab6982_ip-8.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/1d4e0f76-7ab7-4db0-a6da-adc04fab6982_ip-8.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\1d4e0f76-7ab7-4db0-a6da-adc04fab6982_ip-8.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\230de441-1553-4533-a671-eb7d4832e5a5_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\230de441-1553-4533-a671-eb7d4832e5a5_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/230de441-1553-4533-a671-eb7d4832e5a5_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\230de441-1553-4533-a671-eb7d4832e5a5_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\259d77a7-d7c1-464f-81b8-6e9c3f5d4ef0_iphone xsm.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\259d77a7-d7c1-464f-81b8-6e9c3f5d4ef0_iphone xsm.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/259d77a7-d7c1-464f-81b8-6e9c3f5d4ef0_iphone xsm.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\259d77a7-d7c1-464f-81b8-6e9c3f5d4ef0_iphone xsm.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\3087244c-13a8-4603-9a9b-1b11ea88766c_tai-nghe-bluetooth-true-wireless-samsung-galaxy-buds-3-pro-r630n-100724-082455-600x600-1-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\3087244c-13a8-4603-9a9b-1b11ea88766c_tai-nghe-bluetooth-true-wireless-samsung-galaxy-buds-3-pro-r630n-100724-082455-600x600-1-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/3087244c-13a8-4603-9a9b-1b11ea88766c_tai-nghe-bluetooth-true-wireless-samsung-galaxy-buds-3-pro-r630n-100724-082455-600x600-1-600x600.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\3087244c-13a8-4603-9a9b-1b11ea88766c_tai-nghe-bluetooth-true-wireless-samsung-galaxy-buds-3-pro-r630n-100724-082455-600x600-1-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\4a4ef9a0-04bd-4db8-a7c8-b97b8412e1b6_iphone xsm.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\4a4ef9a0-04bd-4db8-a7c8-b97b8412e1b6_iphone xsm.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/4a4ef9a0-04bd-4db8-a7c8-b97b8412e1b6_iphone xsm.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\4a4ef9a0-04bd-4db8-a7c8-b97b8412e1b6_iphone xsm.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\4b8cc543-f77b-4c49-8138-751bcec6d9fe_iphone xsm.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\4b8cc543-f77b-4c49-8138-751bcec6d9fe_iphone xsm.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/4b8cc543-f77b-4c49-8138-751bcec6d9fe_iphone xsm.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\4b8cc543-f77b-4c49-8138-751bcec6d9fe_iphone xsm.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\4c4b7023-9ff4-400a-bdca-4da977567dc8_tai-nghe-bluetooth-tws-xiaomi-redmi-buds-6-lite-200824-041041-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\4c4b7023-9ff4-400a-bdca-4da977567dc8_tai-nghe-bluetooth-tws-xiaomi-redmi-buds-6-lite-200824-041041-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/4c4b7023-9ff4-400a-bdca-4da977567dc8_tai-nghe-bluetooth-tws-xiaomi-redmi-buds-6-lite-200824-041041-600x600.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\4c4b7023-9ff4-400a-bdca-4da977567dc8_tai-nghe-bluetooth-tws-xiaomi-redmi-buds-6-lite-200824-041041-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\56f2202c-13b7-4157-be2b-9c799f21da0f_samsung-galaxy-s24-violet-thumbnew-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\56f2202c-13b7-4157-be2b-9c799f21da0f_samsung-galaxy-s24-violet-thumbnew-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/56f2202c-13b7-4157-be2b-9c799f21da0f_samsung-galaxy-s24-violet-thumbnew-600x600.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\56f2202c-13b7-4157-be2b-9c799f21da0f_samsung-galaxy-s24-violet-thumbnew-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\5c55e4c9-4ae5-48b3-8532-053d7dc3c5ab_grey-1-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\5c55e4c9-4ae5-48b3-8532-053d7dc3c5ab_grey-1-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/5c55e4c9-4ae5-48b3-8532-053d7dc3c5ab_grey-1-750x500.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\5c55e4c9-4ae5-48b3-8532-053d7dc3c5ab_grey-1-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\71350b86-a1af-4ffe-bc2e-6777e3431c03_iphone-16-plus-xanh-thumb-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\71350b86-a1af-4ffe-bc2e-6777e3431c03_iphone-16-plus-xanh-thumb-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/71350b86-a1af-4ffe-bc2e-6777e3431c03_iphone-16-plus-xanh-thumb-600x600.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\71350b86-a1af-4ffe-bc2e-6777e3431c03_iphone-16-plus-xanh-thumb-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\8630dc93-4e04-40a9-88e0-86b39f874e09_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\8630dc93-4e04-40a9-88e0-86b39f874e09_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/8630dc93-4e04-40a9-88e0-86b39f874e09_iphone-15-pro-max-gold-thumbnew-600x600.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\8630dc93-4e04-40a9-88e0-86b39f874e09_iphone-15-pro-max-gold-thumbnew-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\874993ba-94f8-41ce-a87e-e9fdeaafa64f_iphone xsm.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\874993ba-94f8-41ce-a87e-e9fdeaafa64f_iphone xsm.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/874993ba-94f8-41ce-a87e-e9fdeaafa64f_iphone xsm.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\874993ba-94f8-41ce-a87e-e9fdeaafa64f_iphone xsm.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\8badb1b6-c4b3-44cd-ac4b-98c9572790fc_samsung-galaxy-m54-1-1-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\8badb1b6-c4b3-44cd-ac4b-98c9572790fc_samsung-galaxy-m54-1-1-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/8badb1b6-c4b3-44cd-ac4b-98c9572790fc_samsung-galaxy-m54-1-1-750x500.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\8badb1b6-c4b3-44cd-ac4b-98c9572790fc_samsung-galaxy-m54-1-1-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\8e81c061-4a50-4756-a93a-d0f520e6144f_iphone-16-plus-xanh-luu-ly-2-638639097459858381-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\8e81c061-4a50-4756-a93a-d0f520e6144f_iphone-16-plus-xanh-luu-ly-2-638639097459858381-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/8e81c061-4a50-4756-a93a-d0f520e6144f_iphone-16-plus-xanh-luu-ly-2-638639097459858381-750x500.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\8e81c061-4a50-4756-a93a-d0f520e6144f_iphone-16-plus-xanh-luu-ly-2-638639097459858381-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\9d0e13a4-424f-42a9-a7db-7e36594d28db_redmi-13-xanh-1-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\9d0e13a4-424f-42a9-a7db-7e36594d28db_redmi-13-xanh-1-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/9d0e13a4-424f-42a9-a7db-7e36594d28db_redmi-13-xanh-1-750x500.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\9d0e13a4-424f-42a9-a7db-7e36594d28db_redmi-13-xanh-1-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\ac90f296-57d9-41f2-9045-ba18f1340e95_rtx-3050.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\ac90f296-57d9-41f2-9045-ba18f1340e95_rtx-3050.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/ac90f296-57d9-41f2-9045-ba18f1340e95_rtx-3050.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\ac90f296-57d9-41f2-9045-ba18f1340e95_rtx-3050.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\ad57ec77-bf79-40f6-aec8-1286c36f5506_realme-c65-1-2-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\ad57ec77-bf79-40f6-aec8-1286c36f5506_realme-c65-1-2-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/ad57ec77-bf79-40f6-aec8-1286c36f5506_realme-c65-1-2-750x500.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\ad57ec77-bf79-40f6-aec8-1286c36f5506_realme-c65-1-2-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\airpods-pro.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\airpods-pro.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/airpods-pro.jpg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\airpods-pro.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\amd-ryzen-9-5950x.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\amd-ryzen-9-5950x.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/amd-ryzen-9-5950x.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\amd-ryzen-9-5950x.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\Apple MacBook Air M1.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\Apple MacBook Air M1.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/Apple MacBook Air M1.jpg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\Apple MacBook Air M1.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\asus-rog-zephyrus-g15.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\asus-rog-zephyrus-g15.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/asus-rog-zephyrus-g15.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\asus-rog-zephyrus-g15.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\b0eba396-02ce-4270-ba58-506d11deaaf2_samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\b0eba396-02ce-4270-ba58-506d11deaaf2_samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/b0eba396-02ce-4270-ba58-506d11deaaf2_samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\b0eba396-02ce-4270-ba58-506d11deaaf2_samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\c108af86-d7d1-4efb-aae1-f84845472e28_ip-8.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\c108af86-d7d1-4efb-aae1-f84845472e28_ip-8.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/c108af86-d7d1-4efb-aae1-f84845472e28_ip-8.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\c108af86-d7d1-4efb-aae1-f84845472e28_ip-8.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\c4fc04ed-7def-4f30-8159-940148f7fc53_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\c4fc04ed-7def-4f30-8159-940148f7fc53_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/c4fc04ed-7def-4f30-8159-940148f7fc53_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\c4fc04ed-7def-4f30-8159-940148f7fc53_tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play-311024-110106-914-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\corsair-vengeance-rgb-pro-32gb.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\corsair-vengeance-rgb-pro-32gb.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/corsair-vengeance-rgb-pro-32gb.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\corsair-vengeance-rgb-pro-32gb.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\da3bdbd9-5b6a-49b0-8294-b535046b1241_iphone-16-pro-max-sa-mac-thumb-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\da3bdbd9-5b6a-49b0-8294-b535046b1241_iphone-16-pro-max-sa-mac-thumb-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/da3bdbd9-5b6a-49b0-8294-b535046b1241_iphone-16-pro-max-sa-mac-thumb-600x600.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\da3bdbd9-5b6a-49b0-8294-b535046b1241_iphone-16-pro-max-sa-mac-thumb-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\dell-xps-15-2021.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\dell-xps-15-2021.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/dell-xps-15-2021.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\dell-xps-15-2021.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\e9c4bd63-614c-4f33-9c86-2aaf66e3100a_asus-vivobook-go-15-e1504fa-r5-nj776w-glr-2-750x500.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\e9c4bd63-614c-4f33-9c86-2aaf66e3100a_asus-vivobook-go-15-e1504fa-r5-nj776w-glr-2-750x500.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/e9c4bd63-614c-4f33-9c86-2aaf66e3100a_asus-vivobook-go-15-e1504fa-r5-nj776w-glr-2-750x500.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\e9c4bd63-614c-4f33-9c86-2aaf66e3100a_asus-vivobook-go-15-e1504fa-r5-nj776w-glr-2-750x500.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f0ebdcc3-f6a4-4c18-9c5e-6cdac257cc56_asus-fx507zc4-i7-hn181w-thumb-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f0ebdcc3-f6a4-4c18-9c5e-6cdac257cc56_asus-fx507zc4-i7-hn181w-thumb-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/f0ebdcc3-f6a4-4c18-9c5e-6cdac257cc56_asus-fx507zc4-i7-hn181w-thumb-600x600.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\f0ebdcc3-f6a4-4c18-9c5e-6cdac257cc56_asus-fx507zc4-i7-hn181w-thumb-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f273161c-f96f-4379-b57e-909d99a2fb3b_macbook-air-13-inch-m3-2024-512gb-050324-110741-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f273161c-f96f-4379-b57e-909d99a2fb3b_macbook-air-13-inch-m3-2024-512gb-050324-110741-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/f273161c-f96f-4379-b57e-909d99a2fb3b_macbook-air-13-inch-m3-2024-512gb-050324-110741-600x600.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\f273161c-f96f-4379-b57e-909d99a2fb3b_macbook-air-13-inch-m3-2024-512gb-050324-110741-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f3e8712b-e065-48a3-92b1-879edc042d54_tai-nghe-bluetooth-true-wireless-oppo-enco-air-4-etee1-011124-014609-135-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f3e8712b-e065-48a3-92b1-879edc042d54_tai-nghe-bluetooth-true-wireless-oppo-enco-air-4-etee1-011124-014609-135-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/f3e8712b-e065-48a3-92b1-879edc042d54_tai-nghe-bluetooth-true-wireless-oppo-enco-air-4-etee1-011124-014609-135-600x600.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\f3e8712b-e065-48a3-92b1-879edc042d54_tai-nghe-bluetooth-true-wireless-oppo-enco-air-4-etee1-011124-014609-135-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f6b578ba-3d09-4817-9e12-b1f2e7fdab8c_iphone-15-pro-black-thumbnew-600x600.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\f6b578ba-3d09-4817-9e12-b1f2e7fdab8c_iphone-15-pro-black-thumbnew-600x600.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/f6b578ba-3d09-4817-9e12-b1f2e7fdab8c_iphone-15-pro-black-thumbnew-600x600.jpg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\f6b578ba-3d09-4817-9e12-b1f2e7fdab8c_iphone-15-pro-black-thumbnew-600x600.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-buds-pro.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-buds-pro.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/galaxy-buds-pro.jpg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\galaxy-buds-pro.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-s23-ultra.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-s23-ultra.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/galaxy-s23-ultra.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\galaxy-s23-ultra.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-tab-s8-ultra.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-tab-s8-ultra.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/galaxy-tab-s8-ultra.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\galaxy-tab-s8-ultra.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-z-fold3.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\galaxy-z-fold3.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/galaxy-z-fold3.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\galaxy-z-fold3.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\hp-spectre-x360-14.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\hp-spectre-x360-14.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/hp-spectre-x360-14.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\hp-spectre-x360-14.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\huawei-mate-40-pro.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\huawei-mate-40-pro.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/huawei-mate-40-pro.jpg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\huawei-mate-40-pro.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\intel-i9-12900k.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\intel-i9-12900k.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/intel-i9-12900k.jpg",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\intel-i9-12900k.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\IP-15-promax.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\IP-15-promax.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/IP-15-promax.jpg",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\IP-15-promax.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\ip-8.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\ip-8.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/ip-8.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\ip-8.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\iphone xsm.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\iphone xsm.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/iphone xsm.jpg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\iphone xsm.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\logitech-mx-master-3.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\logitech-mx-master-3.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/logitech-mx-master-3.jpg",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\logitech-mx-master-3.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\new-samsung-s24-ultra.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\new-samsung-s24-ultra.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/new-samsung-s24-ultra.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\new-samsung-s24-ultra.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\nvidia-rtx-3080.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\nvidia-rtx-3080.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/nvidia-rtx-3080.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\nvidia-rtx-3080.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\oppo-find-x5-pro.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\oppo-find-x5-pro.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/oppo-find-x5-pro.jpg",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\oppo-find-x5-pro.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\razer-blackwidow-v3-pro.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\razer-blackwidow-v3-pro.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/razer-blackwidow-v3-pro.jpg",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\razer-blackwidow-v3-pro.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\vivo-x70-pro-plus.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\vivo-x70-pro-plus.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/vivo-x70-pro-plus.jpg",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\vivo-x70-pro-plus.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\xiaomi-mi-11-ultra.jpg",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\media\\products\\xiaomi-mi-11-ultra.jpg",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "media/products/xiaomi-mi-11-ultra.jpg",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\media\\products\\xiaomi-mi-11-ultra.jpg"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\rate-limit-test.html",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\rate-limit-test.html",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "rate-limit-test.html",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\rate-limit-test.html"
     },
     {
-      "Identity": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\session-status.html",
+      "Identity": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\session-status.html",
       "SourceId": "E-commerceTechnologyWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\wwwroot\\",
       "BasePath": "_content/E-commerceTechnologyWebsite",
       "RelativePath": "session-status.html",
       "AssetKind": "All",

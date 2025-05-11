@@ -27,6 +27,7 @@ wwwroot\js\jquery.prettyPhoto.js
 wwwroot\js\jquery.scrollUp.min.js
 wwwroot\js\main.js
 wwwroot\js\price-range.js
+wwwroot\js\protect-source.js
 wwwroot\js\xss.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -139,3 +140,5 @@ wwwroot\media\products\oppo-find-x5-pro.jpg
 wwwroot\media\products\razer-blackwidow-v3-pro.jpg
 wwwroot\media\products\vivo-x70-pro-plus.jpg
 wwwroot\media\products\xiaomi-mi-11-ultra.jpg
+wwwroot\rate-limit-test.html
+wwwroot\session-status.html

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj": {}
+    "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj": {}
   },
   "projects": {
-    "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj": {
+    "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj",
+        "projectUniqueName": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj",
         "projectName": "E-commerceTechnologyWebsite",
-        "projectPath": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj",
+        "projectPath": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\E-commerceTechnologyWebsite.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\APP Hoc\\Báo cáo an toàn thông tin(Update)\\E-commerceTechnologyWebsite\\obj\\",
+        "outputPath": "D:\\Báo cáo\\Báo cáo ATBMTT\\Hoàn thiện\\E-commerceTechnologyWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

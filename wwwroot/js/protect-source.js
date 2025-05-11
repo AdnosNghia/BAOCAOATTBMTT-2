@@ -22,26 +22,15 @@
         }
     };
 
-    //// Chặn chuột phải
-    document.oncontextmenu = function (e) {
-        e.preventDefault();
-    };
-
-    // Chặn DevTools
-    function detectDevTools() {
-        if (window.devtools.isOpen) {
-            // Có thể thay đổi hành động này tùy theo nhu cầu
-            document.body.innerHTML = "DevTools đã bị phát hiện!";
-        }
-    }
-
-    // Kiểm tra DevTools mỗi 100ms
-    setInterval(detectDevTools, 100);
+    ////// Chặn chuột phải
+    //document.oncontextmenu = function (e) {
+    //    e.preventDefault();
+    //};
 
     // Vô hiệu hóa console
     console.log = console.warn = console.error = function () { };
 
-    // Thêm một lớp bảo vệ khác
+    //// Thêm một lớp bảo vệ khác
     setInterval(function () {
         debugger;
     }, 100);

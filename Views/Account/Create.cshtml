@@ -87,7 +87,30 @@
             .login-link a:hover {
                 text-decoration: underline;
             }
+
+    /* Styles for password toggle */
+    .password-container {
+        position: relative;
+    }
+
+    .password-toggle {
+        position: absolute;
+        right: 10px;
+        top: 12px;
+        cursor: pointer;
+        color: #666;
+        font-size: 16px;
+    }
+
+    /* Icon styles */
+    .fa-eye, .fa-eye-slash {
+        font-size: 16px;
+    }
 </style>
+
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 <div class="signup-container">
     <div class="signup-header">
         <h1>Đăng ký tài khoản</h1>
@@ -111,15 +134,27 @@
 
         <div class="form-group">
             <label asp-for="Password">Mật khẩu</label>
-            <input asp-for="Password" type="password" placeholder="Nhập mật khẩu" />
+            <div class="password-container">
+                <input asp-for="Password" type="password" placeholder="Nhập mật khẩu" id="Password" />
+                <span class="password-toggle" onclick="togglePassword('Password')">
+                    <i class="fas fa-eye" id="togglePassword"></i>
+                </span>
+            </div>
             <span asp-validation-for="Password" class="text-danger"></span>
         </div>
 
         <div class="form-group">
             <label asp-for="ConfirmPassword">Xác nhận mật khẩu</label>
-            <input asp-for="ConfirmPassword" type="password" placeholder="Nhập lại mật khẩu" />
+            <div class="password-container">
+                <input asp-for="ConfirmPassword" type="password" placeholder="Nhập lại mật khẩu" id="ConfirmPassword" />
+                <span class="password-toggle" onclick="togglePassword('ConfirmPassword')">
+                    <i class="fas fa-eye" id="toggleConfirmPassword"></i>
+                </span>
+            </div>
             <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            <span id="message"></span>
         </div>
+
         <div class="g-recaptcha" data-sitekey="6LdGyzArAAAAAKNBO08N9dYDYV0Nwm49nUrnwYyQ"></div>
         <button type="submit">Đăng ký</button>
     </form>
@@ -128,6 +163,7 @@
         Đã có tài khoản? <a href="/Account/Login">Đăng nhập ngay</a>
     </div>
 </div>
+
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
@@ -141,5 +177,21 @@
                     $('#message').html('Mật khẩu không khớp').css('color', 'red');
             });
         });
+
+        // Function to toggle password visibility
+        function togglePassword(fieldId) {
+            const passwordField = document.getElementById(fieldId);
+            const icon = document.getElementById('toggle' + fieldId);
+
+            if (passwordField.type === 'password') {
+                passwordField.type = 'text';
+                icon.classList.remove('fa-eye');
+                icon.classList.add('fa-eye-slash');
+            } else {
+                passwordField.type = 'password';
+                icon.classList.remove('fa-eye-slash');
+                icon.classList.add('fa-eye');
+            }
+        }
     </script>
 }

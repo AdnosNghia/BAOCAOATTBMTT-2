@@ -91,15 +91,12 @@ builder.Services.AddControllersWithViews();
 
 // Rate limiting services
 builder.Services.AddMemoryCache();
+// Configure rate limiting
 builder.Services.Configure<IpRateLimitOptions>(builder.Configuration.GetSection("IpRateLimiting"));
 builder.Services.AddSingleton<IIpPolicyStore, MemoryCacheIpPolicyStore>();
 builder.Services.AddSingleton<IRateLimitCounterStore, MemoryCacheRateLimitCounterStore>();
 builder.Services.AddSingleton<IRateLimitConfiguration, RateLimitConfiguration>();
 builder.Services.AddInMemoryRateLimiting();
-
-// Configure rate limiting
-builder.Services.Configure<IpRateLimitOptions>(builder.Configuration.GetSection("IpRateLimiting"));
-
 
 
 // Khởi tạo app
@@ -125,6 +122,7 @@ app.UseAuthorization();
 
 // Use rate limiting
 app.UseIpRateLimiting();
+
 
 // Route mặc định
 app.MapControllerRoute(
@@ -167,11 +165,12 @@ app.Use(async (context, next) =>
     await next();
 });
 
+
+
 // Thêm security headers 
 app.Use(async (context, next) =>
 {
     context.Response.Headers["X-Frame-Options"] = "DENY";
-    context.Response.Headers["X-XSS-Protection"] = "1; mode=block";
     context.Response.Headers["X-Content-Type-Options"] = "nosniff";
     context.Response.Headers["Referrer-Policy"] = "strict-origin-when-cross-origin";
     context.Response.Headers["Permissions-Policy"] = "geolocation=(), microphone=(), camera=()";
@@ -208,4 +207,6 @@ app.Use(async (context, next) =>
 
 //Theo dõi hoạt động User Session Tracking
 app.UseMiddleware<SessionTrackingMiddleware>();
+
 app.Run();
+
